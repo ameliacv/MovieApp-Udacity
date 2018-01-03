@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AMovie</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="make_favorite">Make as\nFavorite</string>
+    <string name="label_trailer">Trailers</string>
+    <string name="label_review">Review</string>
+    <string name="favourite">Favourite</string>
+</resources>

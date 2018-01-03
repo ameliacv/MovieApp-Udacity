@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_small">10dp</dimen>
+    <dimen name="space_medium">20dp</dimen>
+    <dimen name="space_big">30dp</dimen>
+
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="margin_medium">20dp</dimen>
+    <dimen name="margin_big">30dp</dimen>
+    <dimen name="margin_super_big">50dp</dimen>
+
+    <dimen name="text_small">16dp</dimen>
+    <dimen name="text_medium">20dp</dimen>
+    <dimen name="text_big">30dp</dimen>
+    <dimen name="text_super_big">50dp</dimen>
+
+    <dimen name="image_width_poster">130dp</dimen>
+    <dimen name="image_height_poster">180dp</dimen>
+    <dimen name="image_width_medium">60dp</dimen>
+    <dimen name="image_height_medium">60dp</dimen>
+
+</resources>
