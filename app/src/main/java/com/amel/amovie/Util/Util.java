@@ -19,7 +19,7 @@ public class Util {
     public static final String URL_GET_POPULAR = "https://api.themoviedb.org/3/movie/popular";
     public static final String URL_GET_TOP = "https://api.themoviedb.org/3/movie/top_rated";
     public static final String URL_GET_DETAIL = "https://api.themoviedb.org/3/movie/";
-    public static final String API_KEY = "f927e1b8f4b4a2a7c813610e4e117160";
+    public static final String API_KEY = "";
 
     public static final String PARAM_ID = "id";
     public static final String PARAM_TITLE = "title";
